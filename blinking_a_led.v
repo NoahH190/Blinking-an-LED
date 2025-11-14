@@ -13,3 +13,5 @@ always @(posedge i_clk) begin
 end 
 
 assign o_LED_1 = r_LED_1;
+
+endmodule
